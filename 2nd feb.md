@@ -8,7 +8,7 @@ This is useful when the exact number of iterations is uncertain or when the loop
 #include <iostream>
 using namespace std;
 
-int main() {
+
     int sum = 0;
     int num = 1;
 while sum<100:
